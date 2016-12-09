@@ -1,0 +1,44 @@
+Layer One Semantic Features
+/crowd/red/motion
+/crowd/red/coherence
+/crowd/green/motion
+/crowd/green/coherence
+/crowd/blue/motion
+/crowd/blue/coherence
+/crowd/all/motion
+/crowd/all/coherence
+
+/coding/red/typingFreq
+/coding/red/evaluationFreq
+/coding/red/new
+/coding/red/changing
+/coding/red/deleting
+/coding/red/parameters
+...also for green, blue
+
+Layer Three Semantic Features
+/crowd/red/cheering
+/crowd/red/vibration
+/crowd/red/pitch
+/crowd/red/lloudness
+/crowd/red/penalty
+/crowd/green/cheering
+/crowd/green/vibration
+/crowd/green/pitch
+/crowd/green/loudness
+/crowd/green/penalty
+/crowd/blue/cheering
+/crowd/blue/vibration
+/crowd/blue/pitch
+/crowd/blue/loudness
+/crowd/blue/penalty
+
+/beat/activity	Luis
+/beat/intensity
+/beat/range
+/bass/activity	David
+/bass/intensity
+/bass/range
+/harmony/activity	Jamie
+/harmony/intensity
+/harmony/range
